@@ -1,0 +1,15 @@
+{
+  "kind": "marinara.personal-extension",
+  "version": 1,
+  "config": {
+    "name": "Gacha Forge UI 한글화",
+    "version": "1.7.3",
+    "description": "고정 UI·시스템 설명 내장 한글화, 모바일 입력 보강, 스토리 묶음 번역·오류 진단.",
+    "runtime": "client",
+    "enabled": false,
+    "capabilities": [
+      "full_page_access"
+    ],
+    "jsPath": "extension.js"
+  }
+}
